@@ -21,9 +21,15 @@
     <ClCompile Include="Flat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Overoat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Flat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Overoat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
